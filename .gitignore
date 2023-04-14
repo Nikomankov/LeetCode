@@ -1,0 +1,4 @@
+# Project exclude paths
+/_1. TwoSum/target/
+/_13. RomantoInteger/target/
+.idea
