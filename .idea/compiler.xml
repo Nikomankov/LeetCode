@@ -7,11 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="_1. TwoSum" />
-        <module name="RomantoInteger" />
+        <module name="_13. RomantoInteger" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="_13. RomantoInteger" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>

@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/_2. AddToNumbers/_2. AddToNumbers.iml" filepath="$PROJECT_DIR$/_2. AddToNumbers/_2. AddToNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/_3. Longest substring without repeating character/_3. Longest substring without repeating character.iml" filepath="$PROJECT_DIR$/_3. Longest substring without repeating character/_3. Longest substring without repeating character.iml" />
       <module fileurl="file://$PROJECT_DIR$/_4. Median of Two Sorted Arrays/_4. Median of Two Sorted Arrays.iml" filepath="$PROJECT_DIR$/_4. Median of Two Sorted Arrays/_4. Median of Two Sorted Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_5. Longest Palindromic Substring/_5. Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/_5. Longest Palindromic Substring/_5. Longest Palindromic Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_6. Zigzag Conversion/_6. Zigzag Conversion.iml" filepath="$PROJECT_DIR$/_6. Zigzag Conversion/_6. Zigzag Conversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
     </modules>
   </component>
