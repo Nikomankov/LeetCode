@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         int n = 3;
-        Solution.generateParenthesis(n).forEach(e -> System.out.println(e + ", "));
+        Solution.generateParenthesis(n).forEach(e -> System.out.print(e + ", "));
 
 
     }
