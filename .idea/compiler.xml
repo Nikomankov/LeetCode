@@ -10,5 +10,9 @@
         <module name="_13. RomantoInteger" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_38. Count and Say" target="19" />
+      <module name="untitled" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
