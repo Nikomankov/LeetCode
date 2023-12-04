@@ -32,12 +32,14 @@
       <module fileurl="file://$PROJECT_DIR$/_36. Valid Sudoku/_36. Valid Sudoku.iml" filepath="$PROJECT_DIR$/_36. Valid Sudoku/_36. Valid Sudoku.iml" />
       <module fileurl="file://$PROJECT_DIR$/_37. Sudoku Solver/_37. Sudoku Solver.iml" filepath="$PROJECT_DIR$/_37. Sudoku Solver/_37. Sudoku Solver.iml" />
       <module fileurl="file://$PROJECT_DIR$/_38. Count And Say/_38. Count And Say.iml" filepath="$PROJECT_DIR$/_38. Count And Say/_38. Count And Say.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_39. Combination Sum/_39. Combination Sum.iml" filepath="$PROJECT_DIR$/_39. Combination Sum/_39. Combination Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/_4. Median of Two Sorted Arrays/_4. Median of Two Sorted Arrays.iml" filepath="$PROJECT_DIR$/_4. Median of Two Sorted Arrays/_4. Median of Two Sorted Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/_5. Longest Palindromic Substring/_5. Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/_5. Longest Palindromic Substring/_5. Longest Palindromic Substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/_6. Zigzag Conversion/_6. Zigzag Conversion.iml" filepath="$PROJECT_DIR$/_6. Zigzag Conversion/_6. Zigzag Conversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/_7. Reverse Integer/_7. Reverse Integer.iml" filepath="$PROJECT_DIR$/_7. Reverse Integer/_7. Reverse Integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/_8. String to Integer atoi/_8. String to Integer atoi.iml" filepath="$PROJECT_DIR$/_8. String to Integer atoi/_8. String to Integer atoi.iml" />
       <module fileurl="file://$PROJECT_DIR$/_9. Palindrome Number/_9. Palindrome Number.iml" filepath="$PROJECT_DIR$/_9. Palindrome Number/_9. Palindrome Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo.iml" filepath="$PROJECT_DIR$/.idea/modules/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
     </modules>
   </component>
